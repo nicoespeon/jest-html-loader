@@ -1,0 +1,17 @@
+{
+  "name": "jest-html-loader",
+  "version": "0.1.0",
+  "description": "Integration of html-loader package with Jest 28+",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "jest",
+    "html",
+    "html-loader"
+  ],
+  "author": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "html-loader": "^0.5.1"
+  }
+}
